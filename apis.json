@@ -1,0 +1,156 @@
+{
+    "name": "Acxiom",
+    "description": "Acxiom's data and technology transform marketing \u2013 giving our clients the power to manage audiences, personalize customer experiences and create profitable customer relationships.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/10134-acxiom.jpg",
+    "tags": [
+        "api provider",
+        "business",
+        "compliance",
+        "data",
+        "have api",
+        "isp",
+        "json",
+        "no api definition",
+        "production key",
+        "profile"
+    ],
+    "created": "2019-12-18",
+    "modified": "2019-12-18",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/acxiom\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Acxiom",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/10134-acxiom.jpg",
+            "humanURL": "http:\/\/developer.myacxiom.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/acxiom-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/acxiom-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Best Practices",
+            "url": "https:\/\/www.acxiom.com\/about-us\/contact-us\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.acxiom.com\/blog\/"
+        },
+        {
+            "type": "Blog",
+            "url": "https:\/\/developer.myacxiom.com\/launch\/community\/blog"
+        },
+        {
+            "type": "Case Studies",
+            "url": "https:\/\/developer.myacxiom.com\/launch\/community\/clients"
+        },
+        {
+            "type": "Code",
+            "url": "https:\/\/developer.myacxiom.com\/code\/api\/documents"
+        },
+        {
+            "type": "Contact",
+            "url": "https:\/\/developer.myacxiom.com\/learn\/contact-us"
+        },
+        {
+            "type": "Contact Form",
+            "url": "https:\/\/www.acxiom.com\/about-us\/contact-us\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/smartdm-holdings"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/developer.myacxiom.com\/"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/developer.myacxiom.com\/code\/api\/documents"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@acxiom.com"
+        },
+        {
+            "type": "Email",
+            "url": "consumercare@acxiom.com"
+        },
+        {
+            "type": "Email",
+            "url": "referencereport@acxiom.com"
+        },
+        {
+            "type": "Email",
+            "url": "datenschutz@acxiom.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacyshieldoptout@acxiom.com"
+        },
+        {
+            "type": "Email",
+            "url": "consumerreportau@acxiom.com"
+        },
+        {
+            "type": "Email",
+            "url": "optoutau@acxiom.com"
+        },
+        {
+            "type": "Email",
+            "url": "cil@acxiom.com"
+        },
+        {
+            "type": "Email",
+            "url": "ukconsumerservices@acxiom.com"
+        },
+        {
+            "type": "Getting Started",
+            "url": "https:\/\/developer.myacxiom.com\/code\/gettingstarted"
+        },
+        {
+            "type": "Linkedin",
+            "url": "https:\/\/www.linkedin.com\/company\/acxiom"
+        },
+        {
+            "type": "News",
+            "url": "https:\/\/developer.myacxiom.com\/launch\/community\/news"
+        },
+        {
+            "type": "Partners",
+            "url": "https:\/\/www.acxiom.com\/partners\/"
+        },
+        {
+            "type": "Privacy",
+            "url": "https:\/\/www.acxiom.com\/about-us\/privacy\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/acxiom"
+        },
+        {
+            "type": "Webinars",
+            "url": "https:\/\/www.acxiom.com\/resources\/#webinars"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/developer.myacxiom.com"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.acxiom.com\/"
+        }
+    ]
+}
